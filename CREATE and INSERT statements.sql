@@ -21,6 +21,11 @@ VALUES
 (7, 'Bubbles', 'Dolphin', 40, 'Ocean'),
 (8, 'Rocky', 'Raccoon', 5, 'Forest'),
 (9, 'Frost', 'Penguin', 20, 'Antarctic'),
-(10, 'Spike', 'Porcupine', 15, 'Woodland');
+(10, 'Spike', 'Porcupine', 15, 'Woodland'),
+(11, 'Whiskers', 'Lynx', 17, 'Taiga'),
+(12, 'Nibbles', 'Beaver', 12, 'Wetlands'),
+(13, 'Echo', 'Bat', 25, 'Caves'),
+(14, 'Blaze', 'Cheetah', 12, 'Savannah'),
+(15, 'Coral', 'Clownfish', 10, 'Coral Reef');
 
 SELECT * FROM Animals
